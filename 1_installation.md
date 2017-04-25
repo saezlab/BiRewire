@@ -3,4 +3,11 @@ layout: page
 title: Installation
 ---
 
-Please provide an installation guide.	
+## Installation
+To install this package, start R and enter:
+
+```{R}
+source("https://bioconductor.org/biocLite.R")
+biocLite("BiRewire")
+```
+
