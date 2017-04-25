@@ -6,7 +6,8 @@ Extension to the general case of undirected networks (not bipartite) is also pro
 
 
 
-**Available from Bioconductor: [Bioconductor/BiRewire](http://bioconductor.org/packages/release/bioc/html/BiRewire.html)**
+- **Available from Bioconductor: [Bioconductor/BiRewire](http://bioconductor.org/packages/release/bioc/html/BiRewire.html)**
+- **GitHub source: [release v3.4](https://github.com/Bioconductor-mirror/BiRewire/tree/release-3.4)**
 
 ### Citation:
 Iorio, F., Bernardo-Faura, M., Gobbi, A., Cokelaer, T., Jurman, G. and Saez-Rodriguez, J., 
