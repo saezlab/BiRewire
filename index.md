@@ -21,13 +21,6 @@ Iorio, F., Bernardo-Faura, M., Gobbi, A., Cokelaer, T., Jurman, G. and Saez-Rodr
 _BMC Bioinformatics_, 17(1), p.542. (2016).
 [http://doi.org/10.1186/s12859-016-1402-1](http://doi.org/10.1186/s12859-016-1402-1)
 
-## Installation
-To install this package, start R and enter:
-
-```{R}
-source("https://bioconductor.org/biocLite.R")
-biocLite("BiRewire")
-```
 
 ### References
 [1] Milo R, Kashtan N, Itzkovitz S, et al. On the uniform generation of random graphs with prescribed degree sequences. Arxiv preprint cond-mat/0312028 2003
