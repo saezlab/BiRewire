@@ -12,15 +12,15 @@ kramdown:
 permalink:        pretty
 
 # Setup
-title:            Tool-Name
-tagline:          Tagline for website
-description:      "Short description of the tool, for the sidebar"
+title:            BiRewire
+tagline:          Efficient randomization of biological networks while preserving functional characterization of individual nodes
+description:      "Efficient randomization of biological networks while preserving functional characterization of individual nodes"
 #url:              https://github.com/saezlab/projectDocumentationTemplate
-baseurl:          /projectDocumentationTemplate/
-toollogo:         /projectDocumentationTemplate/tool_logo.png
+baseurl:          /BiRewire/
+toollogo:         /BiRewire/tool_logo.png
 
 author:
-  name:           'Author Name'
+  name:           'Andrea Gobbi [aut], Francesco Iorio [aut], Giuseppe Jurman [cbt], Davide Albanese [cbt], Julio Saez-Rodriguez [cbt]'
 
 paginate:         5
 
@@ -28,4 +28,4 @@ paginate:         5
 version:          1.0.1
 
 github:
-  repo:           https://github.com/saezlab/projectDocumentationTemplate
+  repo:           https://github.com/saezlab/BiRewire
