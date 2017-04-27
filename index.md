@@ -6,9 +6,11 @@ title: Home
 # BiRewire
 
 ## Overview
-<img src="/BiRewire/public/fig1.png" alt="">
+
 
 BiRewire is an R package implementing high-performing routines for the randomisation of bipartite graphs preserving their node degrees (i.e. Network Rewiring), through the Switching Algorithm (SA) [1]. BiRewire analytically estimates the number of Switching Steps to be performed in order for the similarity between the original network and its rewired version to reach a plateau (i.e. to achieve the maximal level of randomness) according to the lower bound derived in Gobbi et al [see Publications below.] 
+
+<img src="/BiRewire/public/fig1.png" alt="" align="middle">
 
 This package is particularly useful for the randomisation of ’0-1’ tables (or presence-absence matrices) in which the distributions of non-null entries (i.e. presence distributions) must be preserved both across rows and columns. By considering these tables as incidence matrices of bipartite graphs then this problem reduces to bipartite network rewiring.
 
