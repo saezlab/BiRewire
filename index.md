@@ -29,7 +29,7 @@ Extension to the general case of undirected networks (not bipartite) is also pro
 * [SuppData_SD2_COREAD_dataset.txt](saezlab.org/files/birewire/SuppData_SD2_COREAD_dataset.txt)
 
 
-## How to cite us
+## References
 Please use this reference to cite BiRewire:
 
 > Iorio, F., Bernardo-Faura, M., Gobbi, A., Cokelaer, T., Jurman, G. and Saez-Rodriguez, J. (2016). [Efficient randomization of biological networks while preserving functional characterization of individual nodes.](http://doi.org/10.1186/s12859-016-1402-1) _BMC Bioinformatics_, **17**(1), p.542..
