@@ -47,5 +47,5 @@ Please use this reference to cite BiRewire:
 }
 ```
 
-## Further references
+### Further references
 [1] Milo R, Kashtan N, Itzkovitz S, et al. On the uniform generation of random graphs with prescribed degree sequences. Arxiv preprint cond-mat/0312028 2003
